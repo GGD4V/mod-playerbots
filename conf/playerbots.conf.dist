@@ -702,14 +702,14 @@ AiPlayerbot.PvpProhibitedAreaIds = "976,35,392"
 #
 
 # All In seconds
-AiPlayerbot.RandomBotUpdateInterval = 30
+AiPlayerbot.RandomBotUpdateInterval = 60
 AiPlayerbot.RandomBotCountChangeMinInterval = 1800
 AiPlayerbot.RandomBotCountChangeMaxInterval = 7200
 AiPlayerbot.MinRandomBotInWorldTime = 3600
 AiPlayerbot.MaxRandomBotInWorldTime = 43200
 AiPlayerbot.MinRandomBotRandomizeTime = 302400
 AiPlayerbot.MaxRandomBotRandomizeTime = 1209600
-AiPlayerbot.RandomBotsPerInterval = 100
+AiPlayerbot.RandomBotsPerInterval = 30
 AiPlayerbot.MinRandomBotReviveTime = 60
 AiPlayerbot.MaxRandomBotReviveTime = 300
 AiPlayerbot.MinRandomBotTeleportInterval = 3600
