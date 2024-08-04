@@ -84,7 +84,7 @@ AiPlayerbot.RandomBotAccountCount = 500
 
 # Random bot count
 AiPlayerbot.MinRandomBots = 1500
-AiPlayerbot.MaxRandomBots = 3000
+AiPlayerbot.MaxRandomBots = 2000
 
 # Delete all random bot accounts (reset randombots)
 AiPlayerbot.DeleteRandomBotAccounts = 0
@@ -1225,7 +1225,7 @@ Playerbots.Updates.EnableDatabases = 1
 AiPlayerbot.CommandServerPort = 8888
 
 # Diff with/without player in server. The server will tune bot activity to reach the desired server tick speed (in ms).# PLAYERBOT SYSTEM SETTINGS       #
-AiPlayerbot.EnablePrototypePerformanceDiff = 1
+AiPlayerbot.EnablePrototypePerformanceDiff = 0
 AiPlayerbot.DiffWithPlayer = 30
 AiPlayerbot.DiffEmpty = 100
 
